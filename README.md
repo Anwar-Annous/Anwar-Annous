@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 My Toolkit:
-`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Tailwind`  • `VB.net`  
+`HTML` • `CSS` • `JavaScript` • `React` • `PHP` • `Node.js` • `Tailwind`  • `VB.net`  
 
 💾 Deploying dreams via **Vercel** and **Netlify**.  
 🛠️ Versioning reality with **Git**.
