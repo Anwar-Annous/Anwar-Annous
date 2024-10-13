@@ -12,11 +12,6 @@
 
 ---
 
-## 📊 Quick Stats:
-![Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnwarAnnous&show_icons=true&theme=gruvbox&hide_border=true)
-
----
-
 ## 🧠 Fun Facts:  
 - 🌌 Exploring **AI & Web3** portals.  
 - 🎯 2024: **Open source domination**.  
@@ -28,7 +23,7 @@
 ## 📬 Ping Me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AnwarAnnous)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anwarannous@gmail.com)
 
 ---
 
