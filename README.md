@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 My Toolkit:
-`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Tailwind`  
+`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Tailwind`  • `VB.net`  
 
-💾 Deploying dreams via **Vercel** and **Netlify** and **VB.net**.  
+💾 Deploying dreams via **Vercel** and **Netlify**.  
 🛠️ Versioning reality with **Git**.
 
 ---
